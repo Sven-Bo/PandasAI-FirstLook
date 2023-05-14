@@ -6,7 +6,6 @@ Tune in, whether you're new to Python or an experienced data scientist, to gain 
 👉 **PandasAI GitHub Repo:** https://github.com/gventuri/pandas-ai
 
 ## Video Tutorial
-..will follow soon!
 [![YouTube Video](https://img.youtube.com/vi/5w6eZaoDVVk/0.jpg)](https://youtu.be/5w6eZaoDVVk)
 
 
